@@ -2,7 +2,7 @@
 # Voice-Aware Adaptive Precision: Using Behavioral Drift Detection to Recover Quantization Loss in Large Language Models
 
 **Alexander Lee Young**
-Ping Networks Ltd, Trinidad and Tobago
+Trinidad and Tobago
 
 **March 2026**
 
